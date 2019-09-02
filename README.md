@@ -10,7 +10,7 @@ This is my resume written with HTML and CSS [StartNG's](https://start.ng/) Inter
 ![resume Screenshot](https://res.cloudinary.com/absallam/image/upload/v1566694571/127.0.0.1_5500_startNG_task2_abdulsalam.html_zpg5t4.png)
 
 ## After CSS
-![resume Screenshot after CSS] (https://res.cloudinary.com/absallam/image/upload/v1567082335/127.0.0.1_5500_learnZone_abdulsalam.html_h5cl4l.png) 
+![resume Screenshot after CSS](https://res.cloudinary.com/absallam/image/upload/v1567082335/127.0.0.1_5500_learnZone_abdulsalam.html_h5cl4l.png) 
 
 
 # Usage
