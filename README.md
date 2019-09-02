@@ -1,14 +1,17 @@
 # My Resume
-This is my resume written with HTML as [StartNG's](https://start.ng/) Internship second task.
+This is my resume written with HTML and CSS [StartNG's](https://start.ng/) Internship second task.
 
 
-## AppriciationTweet URL
-(https://twitter.com/absallam_/status/1165080962369277952?s=20)
-## Lucid Blog URL
-(https://lucid.blog/abdulsalams577/post/1566694215)
+
 
 # Screenshot
-![resumeScreenshot](https://res.cloudinary.com/absallam/image/upload/v1566694571/127.0.0.1_5500_startNG_task2_abdulsalam.html_zpg5t4.png)
+
+## HTML Only 
+![resume Screenshot](https://res.cloudinary.com/absallam/image/upload/v1566694571/127.0.0.1_5500_startNG_task2_abdulsalam.html_zpg5t4.png)
+
+## After CSS
+![resume Screenshot after CSS] (https://res.cloudinary.com/absallam/image/upload/v1567082335/127.0.0.1_5500_learnZone_abdulsalam.html_h5cl4l.png) 
+
 
 # Usage
 -Create a folder
