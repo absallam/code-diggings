@@ -1,0 +1,259 @@
+
+body{
+    background-color:#f4f4f4;
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    margin:0;
+    font-weight: normal;
+}
+
+
+.container{
+    width: 80%;
+    margin:auto;
+    overflow:hidden;
+}
+
+
+#main-header{
+    padding-top: 7px;
+    margin: 0;
+    background-color: rgba(70, 121, 155, 0.897);
+    color: #fff;
+    position: rel;
+}
+
+
+#navbar{
+    background-color: #333;
+    
+}
+
+
+#navbar ul{
+    float:right;
+    padding:0;
+    list-style:none;
+}
+
+
+#navbar li{
+    display: inline
+}
+
+
+#navbar a{
+    text-decoration: none;
+    color:#fff;
+    font-size: 18px;
+    padding-right: 15px;
+}
+
+
+#navbar a:hover{
+    color:rgba(70, 121, 155, 0.897);
+}
+
+
+#show{
+    background-image:url('../images/wp3205211.png');
+    background-position: bottom right;
+    min-height:300px;
+    margin-bottom: 30px;
+    color:#f4f4f4; 
+}
+
+
+#show h1{
+    
+    font-weight: bold;
+    line-height: 1.2em;
+    font-size: 70px ;
+    text-align: center;
+}
+
+
+#show h2{
+    line-height: 1.2em;
+    font-size:50px;
+    text-align: center;
+}
+
+
+#show p{
+    text-align: left;
+}
+
+
+#navbar-2{
+    float: right;
+    width: 60%;
+    margin-bottom:30px; 
+    padding-left: 20px;
+    overflow:hidden;
+    background-color:  burlywood;
+    text-align: center;
+    padding: 20 0;
+    border-left: 3px rgba(70, 121, 155, 0.897) solid;
+    border-bottom: 5px rgba(70, 121, 155, 0.897) solid;
+    box-sizing: border-box;
+}
+
+
+#navbar-2 ul{
+    padding: 0;
+    list-style: none;
+}
+
+
+#navbar-2 li{
+    display: inline;
+    list-style: none;
+}
+
+
+#navbar-2 a{
+    font-size: 18px;
+    padding-right: 15px;
+}
+
+
+.objectives{
+    padding: 0;
+    text-align: center;
+}
+
+
+#obj-class{
+    width: 58%;
+    padding-right: 300px;
+    overflow:hidden;
+    background-color:rgba(70, 121, 155, 0.897);
+    color:#f4f4f4;
+    text-align: right;
+    border-right: 2px  burlywood solid;
+    border-top: 4px  burlywood solid;
+
+}
+
+
+#obj-class-1{
+    float: right;
+    width: 53%;
+    padding-left:240px;
+    overflow:hidden;
+    background-color:rgba(70, 121, 155, 0.897);
+    color:#f4f4f4;
+    text-align: left;
+    border-top: 4px  burlywood solid;
+    border-left: 2px  burlywood solid;
+}
+
+
+#obj-class-2{
+    width: 56%;
+    padding-right: 85px;
+    overflow:hidden;
+    background-color:rgba(70, 121, 155, 0.897);
+    color:#f4f4f4;
+    text-align: right;
+    border-top: 4px burlywood solid;
+    border-right: 2px burlywood solid;
+}
+
+
+#obj-class-3{
+    width: 57%;
+    padding-right: 85px;
+    overflow:hidden;
+    background-color:rgba(70, 121, 155, 0.897);
+    color:#f4f4f4;
+    text-align: right;
+    border-top: 4px  burlywood solid;
+    border-right: 2px  burlywood solid;
+}
+
+
+.main{
+    float: left;
+    width: 70%;
+    padding: 0 30px;
+    box-sizing: border-box;
+}
+
+
+.sidebar{
+    float: right;
+    width: 80%;
+    background-color: rgba(70, 121, 155, 0.897);
+    color: #fff;
+    padding: 15px;
+    border-left: 3px burlywood solid;
+    border-bottom: 5px burlywood solid;
+    box-sizing: border-box
+}
+
+
+.sidebar ul{
+    padding: 0;
+    list-style: none;
+}
+
+
+.sidebar a{
+    text-decoration: none;
+    color: #fff
+}
+
+
+.sidebar a:hover{
+    color:rgba(70, 121, 155, 0.897);
+}
+
+
+.clr{
+    clear: both;
+}
+
+
+.button{
+    background-color: burlywood;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+}
+
+
+#main-footer{
+    background-color:#333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+
+#main-footer a{
+    text-decoration: none;
+    color: #fff
+}
+
+
+#main-footer a:hover{
+    color: rgba(70, 121, 155, 0.897);
+}
+
+
+@media(max-width:600px){
+    #main{
+        width: 100%
+        float:none;
+    }
+
+    #sidebar{
+        width: 100%
+        float:none;
+    }
+}
